@@ -43,4 +43,3 @@ xtabs(formula, data)
 xtabs(item.value ~ ship.mode, beacukai)
 xtabs(item.value ~ declaration_form_method + cargo.size, cargo)
 ```
-# P4DS-R-
